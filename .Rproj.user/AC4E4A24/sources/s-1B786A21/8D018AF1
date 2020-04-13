@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586804350643.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8D018AF1",
+    "lastKnownWriteTime" : 1586811367,
+    "last_content_update" : 1586811367181,
+    "path" : "~/Documents/Projects/data_science/side_projects/arxiv_scraper/eda.R",
+    "project_path" : "eda.R",
+    "properties" : {
+        "cursorPosition" : "118,0",
+        "scrollLine" : "57",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
